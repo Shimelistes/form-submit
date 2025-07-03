@@ -37,4 +37,4 @@ Shimelis Teshome
 Frontend Developer
 🌍 Addis Ababa, Ethiopia
 🔗 LinkedIn  https://www.linkedin.com/in/shimelis-teshome/
-🐙 GitHub    https://github.com/Shimelistes/form-submit/new/ma
+🐙 GitHub    https://github.com/Shimelistes/form-submit/tree/main
